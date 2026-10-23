@@ -1,7 +1,7 @@
 # -ESP32-Advanced-Smart-Home
 # 🔌 Projeto de Automação IoT: Tuya + ESP32 (ESP-NOW) + Blynk
 
-Um sistema de automação residencial robusto que integra interruptores inteligentes com firmware de fábrica (Tuya) a uma rede de sensores de alta velocidade via **ESP-NOW**, com monitorização em tempo real através da plataforma **Blynk IoT**.
+Um sistema de automação residencial que integra interruptores inteligentes com firmware de fábrica (Tuya) a uma rede de sensores de alta velocidade via **ESP-NOW**, com monitorização em tempo real através da plataforma **Blynk IoT**.
 
 ---
 
@@ -27,7 +27,6 @@ A imagem abaixo ilustra o fluxo de comunicação entre o interruptor inteligente
 ---
 
 ## 🛠️
-
 * **Microcontroladores:** ESP32 / ESP8266
 * **Protocolos:** Wi-Fi, HTTP Webhooks, ESP-NOW
 * **Ecossistemas:** Tuya Smart / Smart Life API
